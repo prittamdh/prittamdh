@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prittamdh
-- 👀 I’m interested in data science/Analytics
+- 👀 I’m interested in Data Science/Analytics
 - 🎯 I have aquired **IBM Data Analyst Professional Certificate** from coursera.
 - 🌱 I’m currently learning visualization tools.
-- 💞️ I’m looking to collaborate on projects on data science/Analytics
+- 💞️ I’m looking to collaborate on projects on Data Science/Analytics
 - 📫 How to reach me https://www.linkedin.com/in/prittam-dholpuria-059615b6
 
 
